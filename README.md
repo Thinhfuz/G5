@@ -8,6 +8,6 @@
 
 Documetation included on the main folder:
 
-Database source : 'saigonbakery.sql'
-Powerpoint : 'SaiGonBakeryPP.pptx'
-Documentation : 'SaigonBakery_Review123.docx'
+- Database source : 'saigonbakery.sql'
+- Powerpoint : 'SaiGonBakeryPP.pptx'
+- Documentation : 'SaigonBakery_Review123.docx'
